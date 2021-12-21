@@ -29,7 +29,7 @@ namespace CeVIO_AI_Connector {
         string raw_data, tag, get_text;
         string[] cast_list, data, type, message, voice, volume, speed, tone;//alpha tone_scale
         int len, get_voice, get_volume = -1, get_speed = -1, get_tone = -1;
-        
+
         public window() {
             InitializeComponent();
             this.ShowInTaskbar = false;
@@ -71,7 +71,7 @@ namespace CeVIO_AI_Connector {
                 CeVIO_Version_Label.Text = ServiceControl2.HostVersion.ToString();
                 cast_list = TalkerAgent2.AvailableCasts;
                 CeVIO_Voice_DropDown.DataSource = cast_list;
-            } else　{
+            } else {
                 CeVIO_AI_Label.Text = "起動していません";
             }
 
@@ -80,7 +80,7 @@ namespace CeVIO_AI_Connector {
             HTTPserver.Prefixes.Clear();
             HTTPserver.Prefixes.Add(@"http://+:" + port + "/");
             HTTPserver.Start();
-            
+
             while (true) {
                 await Task.Run(() => {
                     HttpListenerContext context = HTTPserver.GetContext();
@@ -139,7 +139,7 @@ namespace CeVIO_AI_Connector {
                                     }
                                 }
                             }
-                            
+
                             if(tag == "/talk") {
                                 CeVIO.Cast = "IA";
                                 if(get_volume != -1) {
