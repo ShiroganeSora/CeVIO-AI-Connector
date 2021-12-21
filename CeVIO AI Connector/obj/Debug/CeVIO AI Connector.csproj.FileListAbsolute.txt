@@ -1,0 +1,17 @@
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO AI Connector.exe.config
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO AI Connector.exe
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO AI Connector.pdb
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO.Talk.RemoteService2.dll
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.csprojAssemblyReference.cache
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO_AI_Connector.window.resources
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO_AI_Connector.Properties.Resources.resources
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.csproj.GenerateResource.cache
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.csproj.CoreCompileInputs.cache
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.csproj.CopyComplete
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.exe
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.pdb
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO.Talk.RemoteService.dll
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO AI Connector.exe.manifest
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\bin\Debug\CeVIO AI Connector.application
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.exe.manifest
+F:\Project Files\VisualStudio2017\CeVIO AI Connector\CeVIO AI Connector\obj\Debug\CeVIO AI Connector.application
